@@ -1,0 +1,62 @@
+* {
+  font-family: sans-serif;
+}
+
+.floated {
+  float: left;
+}
+.red {
+  color: red;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+.centerPeople {
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+h3 {
+  background-color: papayawhip;
+  color: brown;
+  padding: 10px;
+}
+p {
+ font-weight: bold;
+ margin-left: 5px;
+ margin-bottom: 0;
+}
+.person {
+  margin: 20px;
+}
+img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid darkblue;
+}
+.online {
+  width: 100px;
+  height: auto;
+  border: none;
+}
+.clear {
+  clear: both;
+}
+h5 {
+  font-weight: bold;
+  color: darkblue;
+  text-align: center;
+  font-size: 1em;
+  margin: 3px;
+}
+h4 {
+  font-weight: bold;
+  color: red;
+  text-align:right;
+  float: right;
+  font-size: .9em;
+}
